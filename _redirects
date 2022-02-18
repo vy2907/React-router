@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/src/components/Home.js             /
+/src/components/News.js             /news
+/src/components/Contact.js          /contact
+
